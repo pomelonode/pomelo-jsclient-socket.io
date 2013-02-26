@@ -1,0 +1,15 @@
+{
+  "name": "pomelo-jsclient-socket.io",
+  "description": "pomelo-jsclient-socket.io",
+  "keywords": [
+    "pomelo",
+    "jsclient",
+    "socket.io"
+  ],
+  "version": "0.0.1",
+  "main": "lib/pomelo-client.js",
+  "scripts": [
+    "lib/pomelo-client.js"
+  ],
+  "repo": "https://github.com/pomelonode/pomelo-jsclient-socket.io"
+}
